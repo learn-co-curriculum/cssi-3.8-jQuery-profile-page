@@ -1,8 +1,4 @@
----
-tags: cssi,
-languages: javascript, html, css
-resources:
----
+
 # Jquery Profile Page
 
 Now that you've seen the power of jQuery, you can add interactivity to your profile page.
