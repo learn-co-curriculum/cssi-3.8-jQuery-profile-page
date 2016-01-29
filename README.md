@@ -12,4 +12,4 @@ Ideas for things you could add:
 There's tons more - jQuery is very versatile! Take some time to design and
 experiment with your page. Make it something special!
 
-<a href='https://learn.co/lessons/cssi-3.8-jQuery-profile-page' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-3.8-jQuery-profile-page' title='Jquery Profile Page'>Jquery Profile Page</a> on Learn.co and start learning to code for free.</p>
